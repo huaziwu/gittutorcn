@@ -29,3 +29,4 @@ if [ $NUM -eq 1 ];then
 fi
 # test
 # test2
+add not stupid
