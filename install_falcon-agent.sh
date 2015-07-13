@@ -28,3 +28,4 @@ if [ $NUM -eq 1 ];then
     echo "falcon-agent install successful"
 fi
 # test
+# test2
