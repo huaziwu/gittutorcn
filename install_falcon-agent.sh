@@ -27,4 +27,4 @@ NUM=`ps ax |grep "falcon-agent"|grep -v "grep"|wc -l`
 if [ $NUM -eq 1 ];then
     echo "falcon-agent install successful"
 fi
-
+# test
